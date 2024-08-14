@@ -1,5 +1,10 @@
 # Vimium Theme Vitesse
 
+<p align="center">
+  <img src="./imgs/vitesse-dark.png"></img>
+  <div align="center">Vitesse Dark</div>
+</p>
+
 ## Usage
 
 1. Open Vimium's Options page.
